@@ -2,7 +2,7 @@
 
 Detect full‑body poses in real time with MediaPipe and classify them into custom labels (e.g., T-Pose, Tree, Warrior II, Push‑Up, etc.) using Python inside Jupyter Notebook.
 
-✨ Features
+### **✨ Features**
 
 Realtime pose detection using MediaPipe Pose with 33 landmarks.
 
@@ -18,7 +18,7 @@ Display annotated frames inline in Notebook.
 
 Optional (Gradio UI for browser-based demo)
 
-📦 Requirements
+### **📦 Requirements**
 
 Python 3.9–3.12
 
