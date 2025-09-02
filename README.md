@@ -1,4 +1,4 @@
-Real-Time Pose Detection & Classification (MediaPipe + Python)
+## **Real-Time Pose Detection & Classification (MediaPipe + Python)**
 
 Detect full‑body poses in real time with MediaPipe and classify them into custom labels (e.g., T-Pose, Tree, Warrior II, Push‑Up, etc.) using Python inside Jupyter Notebook.
 
